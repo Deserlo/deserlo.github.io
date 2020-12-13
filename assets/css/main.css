@@ -190,7 +190,7 @@ input, select, textarea {
 	h1 {
 		font-size: 2.75em;
 		font-weight: 700;
-		line-height: 0.3;
+		line-height: 0.8;
 		margin: 0 0 1em 0;
 		letter-spacing: -0.035em;
 	}
@@ -2868,7 +2868,7 @@ input, select, textarea {
 			color: inherit;
 			font-weight: 900;
 			letter-spacing: 0.35em;
-			margin: 0 0 2.5em 0;
+			margin: 0 0 2em 0;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
@@ -2876,7 +2876,7 @@ input, select, textarea {
 
 			#header .logo > * {
 				display: inline-block;
-				vertical-align: middle;
+				vertical-align: bottom;
 			}
 
 			#header .logo .symbol {
@@ -2885,8 +2885,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 4em;
-					height: 4em;
+					width: 6em;
+					height: 6em;
 					border-radius: 20px;
 				}
 
